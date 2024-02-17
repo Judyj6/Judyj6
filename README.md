@@ -1,6 +1,6 @@
 - hi, I am Judy 
 - come with me 
-- or others 
+- or others ......
 
 <!---
 Judyj6/Judyj6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
